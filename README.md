@@ -20,8 +20,8 @@ OSSP Jsoup을 활용한 Parsing
 ---
 <table border="1">
 <tr><td></td> <td colspan="2" align="center">분야 및 주제 선정<br>개발 환경 구축</td><td colspan="2" align="center">Parsing 구현 및 문서화</td><td colspan="2" align="center">문서 저장,관리,적용</td></tr>
-<tr><td>1주차</td><td bgcolor="yellow"></td><td bgcolor="yellow"></td><td width="100"></td><td></td><td></td><td></td></tr>  
-<tr><td>2주차</td><td width="100"></td><td width="100"></td><td width="100" bgcolor="yellow"></td><td bgcolor="yellow" width="100"></td><td width="100"></td><td width="100"></td></tr>
-<tr><td>3주차</td><td width="100"></td><td width="100"></td><td width="100"></td><td width="100"></td><td width="100" bgcolor="yellow"></td><td width="100" bgcolor="yellow"></td></tr>  
+<tr><td>1주차</td><td bgcolor="black"></td><td bgcolor="black"></td><td width="100"></td><td></td><td></td><td></td></tr>  
+<tr><td>2주차</td><td width="100"></td><td width="100"></td><td width="100" bgcolor="black"></td><td bgcolor="black" width="100"></td><td width="100"></td><td width="100"></td></tr>
+<tr><td>3주차</td><td width="100"></td><td width="100"></td><td width="100"></td><td width="100"></td><td width="100" bgcolor="black"></td><td width="100" bgcolor="black"></td></tr>  
       
 </table>
