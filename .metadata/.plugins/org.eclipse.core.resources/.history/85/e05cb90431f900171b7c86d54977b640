@@ -41,15 +41,7 @@ String arr[] = str.split(" ");
 			System.out.println("검색 결과가 없습니다. 검색할 단어를 입력하세요. : ");
 		}				
 		}
-		/*
-		if(str.indexOf("시발")>-1) // contains 이외의 방법
-		{
-			int sibal = str.indexOf("시발");
-			String siball=str.substring(sibal,sibal+2);
-			System.out.println("해당 단어가 포함된 댓글이 있습니다.");
-			System.out.println("욕 :"+ siball);
-		
-		}*/
+	
 	}
 
 }
