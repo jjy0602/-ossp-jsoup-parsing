@@ -6,7 +6,6 @@ INDEX VERSION 1.129+C:\Users\enter\Desktop\Github\-ossp-jsoup-parsing\.metadata\
 3894941320.index
 1408211338.index
 3786438684.index
-2337123361.index
 2826906022.index
 2365264807.index
 2951431056.index
