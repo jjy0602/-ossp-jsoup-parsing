@@ -42,6 +42,7 @@ public class Guiparssing extends JFrame {
 	 * Create the frame.
 	 */
 	public Guiparssing() {
+		setTitle("OSSP 20134836 \uC815\uC900\uC601");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 502, 519);
 		contentPane = new JPanel();
