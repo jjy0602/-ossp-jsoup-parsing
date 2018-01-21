@@ -1,4 +1,4 @@
-OSSP Jsoup을 활용한 Parsing 
+Parsing Using OSSP Jsoup
 ===
 ### Reasons for Project Selection
 ---
